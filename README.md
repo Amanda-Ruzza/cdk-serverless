@@ -1,4 +1,4 @@
-#DynamoDB, Lambda & API Gateway project using the CDK
+# DynamoDB, Lambda & API Gateway project using the CDK
 
 # Welcome to your CDK TypeScript project
 
