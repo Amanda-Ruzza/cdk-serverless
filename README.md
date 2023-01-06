@@ -1,12 +1,12 @@
 # DynamoDB, Lambda & API Gateway project using the CDK
 
-# Welcome to your CDK TypeScript project
+## Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-## Useful commands
+### Useful commands
 
 * `npm run build`   compile typescript to js
 * `npm run watch`   watch for changes and compile
